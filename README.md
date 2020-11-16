@@ -1,4 +1,4 @@
-# project-jwt
+# SPA
 
 laravel 8
 jwt
